@@ -1,3 +1,6 @@
+## Badges
+![cppcheck-action](https://github.com/99002574/Linux-MiniProject/workflows/cppcheck-action/badge.svg?branch=master)
+
 # Linux-MiniProject
 Realising a message queue, and implementing semaphore and mutex with it. The aim of the project was to create a Cash-Deposit-Machine (CDM) for a recurring deposit at regular intervals, for a fixed amount which is input by the user the first time. During the account setup, a minimum balance of Rs. 1000 is expected, which adds to the deposits.
 

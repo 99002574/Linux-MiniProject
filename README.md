@@ -1,4 +1,7 @@
 ## Badges
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/23a4cd7695ec4df78c491c21da373616)](https://app.codacy.com/manual/99002574/Linux-MiniProject?utm_source=github.com&utm_medium=referral&utm_content=99002574/Linux-MiniProject&utm_campaign=Badge_Grade_Settings)
+
 ![cppcheck-action](https://github.com/99002574/Linux-MiniProject/workflows/cppcheck-action/badge.svg?branch=master)
 
 # Linux-MiniProject

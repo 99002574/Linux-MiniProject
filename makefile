@@ -1,7 +1,7 @@
 all: send reci
-send:
+send:send.c
 	gcc send.c -o send -pthread
-reci:
+reci:reci.c
 	gcc reci.c -o reci -pthread 
 
 
